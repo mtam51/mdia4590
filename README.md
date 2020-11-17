@@ -1,2 +1,2 @@
 # mdia4590
-A test repository for BCIT MDIA 4590
+A repository for all assignments & projects for MDIA 4590 - Quality Assurance class. 
